@@ -1,6 +1,6 @@
 # House Marketplace
 
-Find and list houses for sale or for rent. This is a React / Firebase v9 project from the React Front To Back 2022 course.
+
 
 ## Usage
 
@@ -11,7 +11,8 @@ The listings use Google geocoding to get the coords from the address field. You 
 ### Run
 
 ```bash
+npm install 
+   &
 npm start
 ```
-# House-Marketplace
-# House-Marketplace
+
